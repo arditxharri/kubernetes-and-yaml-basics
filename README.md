@@ -193,4 +193,4 @@ need_to_buy:
 
 - [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/) — Run a local Kubernetes cluster for development and testing.
 - [Play with Kubernetes](https://labs.play-with-k8s.com) — Try out Kubernetes in a browser-based playground.
-- [Katacoda Kubernetes Scenarios](https://www.katacoda.com) — Interactive tutorials for learning Kubernetes concepts.
+- [Killerkoda Kubernetes Scenarios]([https://www.katacoda.com)](https://killercoda.com/) — Interactive tutorials for learning Kubernetes concepts.
